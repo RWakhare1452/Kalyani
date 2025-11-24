@@ -549,7 +549,6 @@ footer{
     #container1 {
         padding: 8px 20px; /* Adjusted padding for tablet */
         justify-content: space-around; /* Use space-around for slightly better look on smaller desktop/tablet */
-        margin-left: 0;
     }
 
     /* Navigation */
