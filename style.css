@@ -249,6 +249,10 @@ nav{
     font-weight: 700;
 }
 
+#Who_We_Are font{
+    margin-bottom: 20px;
+}
+
 #Who_We_Are #cont1{
     display: flex;
     flex-direction: row;
@@ -693,6 +697,3 @@ footer{
     }
 
 }
-
-
-
