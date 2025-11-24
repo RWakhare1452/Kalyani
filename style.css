@@ -34,7 +34,7 @@ html , body{
     padding: 8px 10px;
     transition: all 0.3s ease-in-out;
     gap: 200px;
-    margin-left: 200px;
+    margin-left: 500px;
 }
 
 nav{
@@ -694,5 +694,6 @@ footer{
     }
 
 }
+
 
 
