@@ -33,6 +33,7 @@ html , body{
     align-items: center;
     padding: 8px 10px;
     transition: all 0.3s ease-in-out;
+    gap: 500px;
 }
 
 nav{
@@ -692,5 +693,6 @@ footer{
     }
 
 }
+
 
 
